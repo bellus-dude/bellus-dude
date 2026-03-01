@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! :relieved:
+I’m Saba, a self-learning coder. I like automating simple tasks & calculations, with my goal being to make efficient code.
 
-<!--
-**bellus-dude/bellus-dude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently focused on:
 
-Here are some ideas to get you started:
+Learning languages (python, javascript) <br>
+Learning data types & structures <br>
+Small, personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts about me:
+
+I like black tea (without sugar) <br>
+I have an obbsession with cheese making videos <br>
+Hobbies: working out & learning german
